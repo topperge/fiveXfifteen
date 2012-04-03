@@ -38,3 +38,6 @@ gem "guard-cucumber", ">= 0.6.1", :group => :development
 gem "devise", ">= 2.1.0.rc"
 gem "twitter-bootstrap-rails", ">= 2.0.3", :group => :assets
 gem "rails-footnotes", ">= 3.7", :group => :development
+gem "cancan"
+gem "rolify"
+
